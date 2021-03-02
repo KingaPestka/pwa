@@ -1,9 +1,10 @@
-var cacheName = 'muddygames-pwa';
+var cacheName = 'kinga';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/css/push.css',
-  '/js/script.js'
+  './',
+  './index.html',
+  './gameloop/css/push.css',
+  './gameloop/js/script.js',
+  './gameloop/index.html'
 ];
 
 /* Cache contents when Offline See Cache */
