@@ -3,7 +3,7 @@ var filesToCache = [
   './index.html',
   './gameloop/css/push.css',
   './gameloop/js/script.js',
-  './gameloop/index.html'
+  './gameloop/game.html'
 ];
 
 /* Cache contents when Offline See Cache */
