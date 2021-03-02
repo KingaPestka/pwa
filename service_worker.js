@@ -1,6 +1,5 @@
 var cacheName = 'kinga';
 var filesToCache = [
-  './',
   './index.html',
   './gameloop/css/push.css',
   './gameloop/js/script.js',
